@@ -1,0 +1,11 @@
+{
+  "name": "@liningxu.com/template-react18",
+  "version": "1.0.0",
+  "description": "react18 template",
+  "keywords": [],
+  "author": "liningxu",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
